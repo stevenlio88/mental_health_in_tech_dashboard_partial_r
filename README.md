@@ -1,7 +1,7 @@
 # Mental Health In Tech Dashboard R (Partial)
 
 This repo contains the necessary files for deploying a R version of the Mental Health In Tech Dashboard (Partial) app to Heroku.
-The deployed app is hosted [here](https://dsci532-testdashboard-r.herokuapp.com/).
+The deployed app is hosted [here](https://dsci532-mhtdb-partial-r.herokuapp.com/).
 
 Steps to reproduce:
 
