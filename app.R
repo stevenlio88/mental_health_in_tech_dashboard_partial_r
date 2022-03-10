@@ -275,7 +275,8 @@ app$callback(
 
 )
 
-app$run_server()
+#app$run_server()
+app$run_server(host = '0.0.0.0')
 
 
 
